@@ -4,8 +4,8 @@ html {
 }
 body {
     margin: 0 0 100px; /* bottom = footer height */
-	background-size: cover;
-    background-repeat: no-repeat;
+	background-image: url("../images/footer_lodyas.png");
+    
 }
 
 
@@ -97,8 +97,8 @@ footer {
 	border-style: solid;
 	border-color: #777777;;
 	border-width: .01px;
-	height:400px;
-	width:600px;
+	height:530px;
+	width:700px;
 	float:left;
 	position:relative;
 }
